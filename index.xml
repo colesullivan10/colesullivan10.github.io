@@ -6,7 +6,16 @@
     <description>Recent content on Cole Sullivan&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does the MLB today only care about homeruns </title>
+      <link>/2021/12/05/does-the-mlb-today-only-care-about-homeruns/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/12/05/does-the-mlb-today-only-care-about-homeruns/</guid>
+      <description>library(tidyverse)## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --## v ggplot2 3.3.5 v purrr 0.3.4## v tibble 3.1.5 v dplyr 1.0.7## v tidyr 1.1.4 v stringr 1.4.0## v readr 2.0.2 v forcats 0.5.1## -- Conflicts ------------------------------------------ tidyverse_conflicts() --## x dplyr::filter() masks stats::filter()## x dplyr::lag() masks stats::lag()library(ggalt)## Registered S3 methods overwritten by &amp;#39;ggalt&amp;#39;:## method from ## grid.draw.absoluteGrob ggplot2## grobHeight.</description>
+    </item>
+    
     <item>
       <title>What Does Time Of Possesion Mean for NFL Playoff Teams</title>
       <link>/2021/10/31/what-does-time-of-possesion-mean-for-nfl-playoff-teams/</link>
